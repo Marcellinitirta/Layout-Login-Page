@@ -4,6 +4,8 @@
     height: 46px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+    padding-left: 10px;
+    font-size: 16px;
 }
 .form-control2 {
     display: block;
@@ -12,9 +14,11 @@
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-bottom: 20px;
+    padding-left: 10px;
+    font-size: 16px;
 }
 .button {
-    width: 300px;
+    width: 315.99px;
     height: 48Px;
     background: #007BFF;
     border-radius: 6px;
